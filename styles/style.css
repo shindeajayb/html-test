@@ -1,0 +1,42 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.main-container{
+    width: 60%;
+    height: 100%;
+    margin: 0 auto;
+    background-color: #e3f6f5;
+    /* background-color: #b0eacd; */
+    color:#272343;
+    padding: 4%;
+}
+.header{
+    font-size: 3em;
+    /* color: #21bf73; */
+    color:#fd5e53;
+    text-align: center;
+    text-shadow: 2.5px 2px #272343;
+}
+body{
+    background-color: #bae8e8;
+}
+.mozilla-logo{
+    display:block;
+    height: 50%;
+    margin: 0 auto;
+}
+p{
+    margin-top: 2em;
+}
+.list-feature{
+    padding:1.5em;
+    padding-left: 2em;
+    line-height: 2.3em;
+}
